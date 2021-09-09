@@ -1,0 +1,42 @@
+.loginContainer{
+    justify-content: center;
+    padding-top: 5rem;
+    max-width: 70%;
+    margin:auto;
+}
+
+.loginForm{
+    padding: 7rem 4rem 9rem 4rem;
+    margin-left: 0%;
+    margin-right: 0%;
+    max-height: 32rem;
+    background-color: white;
+    border-radius: 3% 0 0 3%;
+}
+
+.registrarForm{
+    padding: 7rem 4rem 15rem 4rem;
+    margin-left: 0%;
+    margin-right: 0%;
+    max-height: 32rem;
+    background-color: #727CF5;
+    color: white;
+    border-radius: 0 3% 3% 0;
+}
+
+
+.titleText{
+    margin: 0;
+}
+
+/* Button {
+    min-width: 100%;
+    margin-top: 1rem;
+} */
+
+.loginControl{
+    margin-top: 1rem;
+    margin-bottom: 0;
+    height: 3rem;
+    padding: 0%;
+}

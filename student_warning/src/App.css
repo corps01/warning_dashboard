@@ -1,0 +1,10 @@
+ html, body, #app, #app>div {
+  height: 100%;
+  background-color: #F6F5F7;
+} 
+
+.App {
+  text-align: center;
+  height: 100%;
+  background-color: #F6F5F7;
+}
